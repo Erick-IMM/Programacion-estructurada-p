@@ -10,7 +10,7 @@ INGENIERIA EN COMPUTACION/2DO SEMESTRE
 Profesor: Carlos Javier Cruz Franco
 Descripcion: el programa es un repaso por los operadores basicos
 */
-
+//hola
 
 
 int main(){
