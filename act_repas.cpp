@@ -14,7 +14,7 @@ Descripcion: el programa es un repaso por los operadores basicos
 
 
 int main(){
-    int suma,a,b,num,resta,mult,divi,x;
+    int suma,a,b,num,resta,mult,divi,x; //se crea un swicth que va a realizar la operacionn elegida
     cout<<"Ingresa el numero de la operacion de dos numeros que quieres realizar"<<endl;
     cout<< " 1 suma\n 2 resta\n 3 multiplicacion\n 4 division\n";
     cin>> num;
