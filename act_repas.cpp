@@ -1,6 +1,17 @@
 #include <iostream>
 #include<iostream>
 using namespace std;
+/*
+Nombre: Erick Israel Martin Mariscal
+Fecha: 24/01/2023
+Programa: Actividad repaso.cpp
+CENTRO UNIVERSITARIO DE LOS ALTOS UNIVERSIDAD DE GUADALAJARA
+INGENIERIA EN COMPUTACION/2DO SEMESTRE
+Profesor: Carlos Javier Cruz Franco
+Descripcion: el programa es un repaso por los operadores basicos
+*/
+
+
 
 int main(){
     int suma,a,b,num,resta,mult,divi,x;
