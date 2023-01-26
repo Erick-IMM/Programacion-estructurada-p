@@ -34,6 +34,7 @@ int main(){
     cout<<"Ingresa en numeros tu semestre actual:"<<endl;
     cin>>semestre;
     
+    
  //se genera un parrafo de presentacion con los datos ingresados
     cout<<"Alumno/a "<<nombre<<" de "<<edad<<" años de edad"<<" nacido/a el "<<dia<<"/"<<mes<<"/"<<year<<"\n ciudadano de "<<residencia<<" estudia la carrera de "<<carrera<<" cursando el "<<semestre<<" semestre"<<endl;
 return 0;
